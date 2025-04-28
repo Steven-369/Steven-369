@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steven-369
-- 👀 I’m a python Developer
-- 🌱 I’m currently learning backend systems
+- 👀 I’m a Embbeded developer (C++, python)
+- 🌱 I’m currently learning Embbeded systems
 - 💞️ I’m looking to collaborate on projects and contribute more
 - 📫 How to reach me telegram @cessbunz
 - 😄 Pronouns: ...MR
