@@ -48,4 +48,4 @@
 * **Embedded:** Arduino, ESP8266, STM32
 * **PCB Design:** KiCad, EasyEDA
 * **Languages:** C/C++, Python
-* ** Power Electronics(Power supplies and Energy efficiency)  
+*  Power Electronics(Power supplies and Energy efficiency)  
