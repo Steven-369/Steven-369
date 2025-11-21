@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steven-369
-- 👀 I’m a Embbeded developer (C++, python)
+- 👀 I’m a Embbeded system Engineer 
 - 🌱 I’m currently learning Embbeded systems
 - 💞️ I’m looking to collaborate on projects and contribute more
 - 📫 How to reach me telegram @cessbunz
